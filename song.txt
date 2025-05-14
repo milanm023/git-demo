@@ -3,3 +3,5 @@ Drugi red
 Treci red
 Cetvrti red
 Peti red
+
+First Commit for new branch
